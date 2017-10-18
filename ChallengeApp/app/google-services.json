@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381542945081",
+    "firebase_url": "https://challengeapp-294d9.firebaseio.com",
+    "project_id": "challengeapp-294d9",
+    "storage_bucket": "challengeapp-294d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381542945081:android:72a86f512af683ea",
+        "android_client_info": {
+          "package_name": "group7.tcss450.uw.edu.challengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381542945081-aob68o8v6fdvkte8an6fbk0qs4q8d19m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "group7.tcss450.uw.edu.challengeapp",
+            "certificate_hash": "dac42462a9ce4f0a5491bc60b45ded523173850d"
+          }
+        },
+        {
+          "client_id": "381542945081-2s6s8n23vkmd9ndljugekjps6dg8tc02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbJV1_tNWl9s3KiuDDI_AyW1j9kE_0V8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381542945081-2s6s8n23vkmd9ndljugekjps6dg8tc02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

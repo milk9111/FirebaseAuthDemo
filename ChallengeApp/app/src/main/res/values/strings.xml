@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="display">Display</string>
+    <string name="username_empty">Email is empty!</string>
+    <string name="password_empty">Password is empty!</string>
+    <string name="confirm_password_empty">Confirm Password is empty!</string>
+    <string name="passwords_different">Passwords don\'t match!</string>
+    <string name="existing_email">That email is already being used!</string>
+    <string name="non_existing_email">That email is invalid!</string>
+    <string name="auth_failed">Authorization Failed</string>
+    <string name="welcome">Welcome!</string>
+</resources>

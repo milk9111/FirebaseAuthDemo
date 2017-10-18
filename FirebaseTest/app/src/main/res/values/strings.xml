@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseTest</string>
+    <string name="auth_failed">Authorization Failed</string>
+    <string name="auth_passed">Authorization Passed</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_confirm">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
